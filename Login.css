@@ -1,0 +1,86 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(./assets/imags/download\ \(3\).jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.signup-box{
+    width: 360%;
+    height: 720px;
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+}
+.meno{
+    background-color: blueviolet;
+    color: white;
+    padding: 25px;
+    
+}
+.meno li {
+    display: inline-block;
+    margin-right: 15px;
+}
+.meno li a{
+color: white;
+text-decoration: none;;
+}
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+form input{
+    width: 100px;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+}
+input[type="button"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color:#49c1a2;
+    color: white;
+    font-size: 15px;
+}
+.meno{
+    color: black;
+    padding: 25px;
+    font-size: 20px;
+}
+.meno li {
+    display: inline-block;
+    margin-right: 25px;
+}
+.meno li a{
+color: rgb(0, 0, 0);
+text-decoration: none;;
+}
+.meno{
+    margin-right: 800px;
+    margin-left: 0px;
+}
+.meno{
+    background-color: blueviolet;
+    color: white;
+    padding: 25px;
+    
+}
+.meno li {
+    display: inline-block;
+    margin-right: 15px;
+}
+.meno li a{
+color: white;
+text-decoration: none;;
+}
